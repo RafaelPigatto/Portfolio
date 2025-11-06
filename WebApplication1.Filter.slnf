@@ -1,0 +1,9 @@
+﻿{
+  "solution": {
+    "path": "..\\RiderProjects\\WebApplication1\\WebApplication1.sln",
+    "projects": [
+      "Project.API\\Project.API.csproj",
+      "Test\\Test.csproj"
+    ]
+  }
+}
